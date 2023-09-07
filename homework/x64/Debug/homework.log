@@ -1,0 +1,3 @@
+﻿  homework.cpp
+C:\Projects\homework\homework\homework.cpp(2,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  homework.vcxproj -> C:\Projects\homework\homework\x64\Debug\homework.exe
