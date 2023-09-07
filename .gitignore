@@ -2,7 +2,7 @@
 *.vs
 
 # ігнорувати дииректорію цілком
-homework\x64\Debug
+*homework\x64\Debug
 
 # ігнорувати дииректорію цілком
-homework\.vs
+*homework\.vs
