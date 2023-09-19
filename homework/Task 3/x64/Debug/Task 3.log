@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Projects\h-w course\Task 3\main.cpp(7,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Projects\h-w course\Task 3\main.cpp(8,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  Task 3.vcxproj -> C:\Projects\h-w course\homework\x64\Debug\Task 3.exe
